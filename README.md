@@ -7,7 +7,7 @@ Here is how to run it on Windows:
 1. Download and extract the file from repo. 
 2. Keep the software.exe file in ur pendrive or any other device.
 3. Run the software.exe file in victim machine u will get a DontDelete.pickle file.
-4. Take to DontDelete.pickle file and keep it near the dehack.exe file and run it.
+4. Take the DontDelete.pickle file and keep it near the dehack.exe file and run it.
 5. This will create a new text file with all the wifi passwords !! :)
 
 
