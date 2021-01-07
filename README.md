@@ -1,7 +1,7 @@
 # Laptop_wifi_hack
 If u want to know all the saved passwords in a laptop all u need is a "CLICK" !!!
 
-## This is no to harm any anyone its just for "EDUCATIONAL PURPOSE".
+## This is no to harm anyone its just for "EDUCATIONAL PURPOSE".
 
 Here is how to run it on Windows:
 1. Download and extract the file from repo. 
